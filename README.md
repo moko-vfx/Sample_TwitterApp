@@ -1,5 +1,5 @@
 # Sample_TwitterApp
-シンプルなTwitterアプリのサンプル
+シンプルなTwitterアプリのサンプル  
 　![TwitterAppSample.gif](TwitterAppSample.gif)  
 
 **◆ 補足**  
